@@ -1,6 +1,6 @@
-[submodule "server"]
-	path = server
-	url = ../
-[submodule "client"]
-	path = client
-	url = ../
+# [submodule "server"]
+# 	path = server
+# 	url = ../
+# [submodule "client"]
+# 	path = client
+# 	url = ../
